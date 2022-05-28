@@ -1,0 +1,25 @@
+header {
+height: 500px;
+width: auto;
+background-color: #1F2937;
+font-family: 'Roboto', sans-serif;;
+}
+
+#header1, #header2 {
+    display:inline;
+}
+
+#header1 {
+    padding-left: 125px;
+}
+
+.text {
+    margin-top: 500px;
+
+    word-wrap: break-word;
+    display: flex;
+}
+
+
+
+
